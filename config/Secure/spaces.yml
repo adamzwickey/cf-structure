@@ -1,0 +1,4 @@
+org: Secure
+spaces:
+- development
+enable-delete-spaces: true

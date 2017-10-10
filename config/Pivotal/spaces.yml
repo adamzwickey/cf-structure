@@ -1,0 +1,6 @@
+org: Pivotal
+spaces:
+- development
+- staging
+- production
+enable-delete-spaces: true
